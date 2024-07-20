@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jonir\\Documents\\GitHub\\labyrinth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49EB2668-B614-7F8B-AC30-9E682F1F5A44}|Assembly-CSharp.csproj|c:\\users\\jonir\\documents\\github\\labyrinth\\assets\\testcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49EB2668-B614-7F8B-AC30-9E682F1F5A44}|Assembly-CSharp.csproj|solutionrelative:assets\\testcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49EB2668-B614-7F8B-AC30-9E682F1F5A44}|Assembly-CSharp.csproj|c:\\users\\jonir\\documents\\github\\labyrinth\\assets\\scripts\\testcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EB2668-B614-7F8B-AC30-9E682F1F5A44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jonir\\Documents\\GitHub\\labyrinth\\Assets\\testCode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\testCode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +24,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "testCode.cs",
+              "DocumentMoniker": "C:\\Users\\jonir\\Documents\\GitHub\\labyrinth\\Assets\\scripts\\testCode.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\testCode.cs",
+              "ToolTip": "C:\\Users\\jonir\\Documents\\GitHub\\labyrinth\\Assets\\scripts\\testCode.cs",
+              "RelativeToolTip": "Assets\\scripts\\testCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:57:49.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testCode.cs",
               "DocumentMoniker": "C:\\Users\\jonir\\Documents\\GitHub\\labyrinth\\Assets\\testCode.cs",
               "RelativeDocumentMoniker": "Assets\\testCode.cs",
               "ToolTip": "C:\\Users\\jonir\\Documents\\GitHub\\labyrinth\\Assets\\testCode.cs",
               "RelativeToolTip": "Assets\\testCode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T11:11:18.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T11:11:18.564Z"
             }
           ]
         }
