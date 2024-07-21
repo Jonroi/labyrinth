@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\testCode.cs" />
+    <Compile Include="Assets\scripts\input.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
