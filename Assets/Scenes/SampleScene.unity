@@ -1575,7 +1575,7 @@ GameObject:
   - component: {fileID: 1147861816}
   - component: {fileID: 1147861815}
   - component: {fileID: 1147861819}
-  - component: {fileID: 1147861820}
+  - component: {fileID: 1147861821}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Player
@@ -1696,7 +1696,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &1147861820
+--- !u!114 &1147861821
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1705,7 +1705,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1147861814}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7bff6ba62354e24b904d1d812c1551e, type: 3}
+  m_Script: {fileID: 11500000, guid: 0574ab10b501a8b468f6e6c137527574, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1268068531
