@@ -65,7 +65,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\testCode.cs" />
+    <Compile Include="Assets\scripts\IntRandom.cs" />
+    <Compile Include="Assets\scripts\floatRandom.cs" />
     <Compile Include="Assets\scripts\input.cs" />
+    <Compile Include="Assets\scripts\listRandom.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
