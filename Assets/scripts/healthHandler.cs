@@ -12,24 +12,12 @@ namespace YourNamespace
 
         void Start()
         {
-            if (healthText == null || conditionText == null)
-            {
-                Debug.LogError("TextMeshProUGUI components are not assigned.");
-                return;
-            }
-
             UpdateHealthText();
             conditionText.text = "alive";
         }
 
         public void DecreaseHealth()
         {
-            if (healthText == null || conditionText == null)
-            {
-                Debug.LogError("TextMeshProUGUI components are not assigned.");
-                return;
-            }
-
             if (currentHealth > 0)
             {
                 currentHealth -= 10;
@@ -49,12 +37,6 @@ namespace YourNamespace
 
         public void ResetHealth()
         {
-            if (healthText == null || conditionText == null)
-            {
-                Debug.LogError("TextMeshProUGUI components are not assigned.");
-                return;
-            }
-
             currentHealth = 100;
             UpdateHealthText();
             conditionText.text = "alive";
