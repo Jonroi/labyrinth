@@ -1,7 +1,8 @@
 using TMPro; // Import TextMeshPro namespace
 using UnityEngine;
 
-namespace YourNamespace
+namespace HealthManager
+
 {
     public class HealthHandler : MonoBehaviour
     {
